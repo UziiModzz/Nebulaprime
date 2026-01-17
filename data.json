@@ -1,0 +1,26 @@
+{
+  "apks": [
+    {
+      "id": "1",
+      "nama": "Spotify Premium",
+      "cat": "Music",
+      "badge": "No Ads • Unlocked",
+      "size": "35 MB",
+      "logo": "tes.png",
+      "desc": "Nikmati fitur premium tanpa batas.",
+      "ss": ["https://via.placeholder.com/200x360","https://via.placeholder.com/200x360"],
+      "downloads": [{ "label": "Download v8.9", "url": "#" },{ "label": "Download v8.9", "url": "#" }]
+    },
+    {
+      "id": "2",
+      "nama": "CapCut Pro",
+      "cat": "Editing",
+      "badge": "No Watermark",
+      "size": "120 MB",
+      "logo": "https://via.placeholder.com/150",
+      "desc": "Edit video profesional tanpa batas.",
+      "ss": ["https://via.placeholder.com/200x360"],
+      "downloads": [{ "label": "Download v10.0", "url": "#" }]
+    }
+  ]
+}
