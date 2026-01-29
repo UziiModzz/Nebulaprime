@@ -13,13 +13,13 @@
     },
     {
       "id": "2",
-      "nama": "CapCut Pro",
-      "cat": "Editing",
-      "badge": "No Watermark",
-      "size": "120 MB",
+      "nama": "Bstation+",
+      "cat": "streaming",
+      "badge": "No ads",
+      "size": "90.73 MB",
       "logo": "https://via.placeholder.com/150",
-      "desc": "Edit video profesional tanpa batas.",
-      "ss": ["https://via.placeholder.com/200x360"],
+      "desc": "tempat streaming atau nonton film dan anime.",
+      "ss": ["bs1.png"],
       "downloads": [{ "label": "Download v10.0", "url": "#" }]
     }
   ]
