@@ -8,8 +8,10 @@
       "size": "35 MB",
       "logo": "spotify.png",
       "desc": "Nikmati fitur premium tanpa batas.",
-      "ss": ["https://via.placeholder.com/200x360","https://via.placeholder.com/200x360"],
-      "downloads": [{ "label": "Download v8.9", "url": "#" },{ "label": "Download v8.9", "url": "#" }]
+      "downloads": [
+        { "label": "Download v8.9", "url": "https://example.com/spotify1" },
+        { "label": "Download v8.8", "url": "https://example.com/spotify2" }
+      ]
     },
     {
       "id": "2",
@@ -18,9 +20,10 @@
       "badge": "No ads",
       "size": "90.73 MB",
       "logo": "bslogo.png",
-      "desc": "tempat streaming atau nonton film dan anime.",
-      "ss": ["bs1.png","bs2.png"],
-      "downloads": [{ "label": "Download v10.0", "url": "#" }]
+      "desc": "Tempat streaming atau nonton film dan anime.",
+      "downloads": [
+        { "label": "Download v10.0", "url": "https://example.com/bstation" }
+      ]
     }
   ]
 }
